@@ -37,9 +37,9 @@ The NC Portfolio backend code can be found on: https://github.com/aasaezm/nc-por
 
 ## Project developed by 
 
-* Jorge del Río ([@Jorge-Figueira](https://github.com/Jorge-Figueira))
+* Alberto Sáez
 * Benjamin Lomas ([@BigBeeps142](https://github.com/BigBeeps142))
 * David Clark ([@davidptclark](https://github.com/davidptclark))
-* Alberto Sáez
+* Jorge del Río ([@Jorge-Figueira](https://github.com/Jorge-Figueira))
 * Tom Wallwin ([@TWallwin](https://github.com/TWallwin))
 
