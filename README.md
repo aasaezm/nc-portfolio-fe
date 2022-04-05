@@ -1,4 +1,4 @@
-# NC Portfolio App
+# NC Portfolio App (TBC)
 
 NC Portolio App agregates graduates's work in one centralised space, granting them the opportunity to gain visibility and showcase their skills to potential employers uploading video demos of projects they've built. 
 
@@ -37,9 +37,9 @@ The NC Portfolio backend code can be found on: https://github.com/aasaezm/nc-por
 
 ## Project developed by 
 
-* Jorge del Río
-* Benjamin Lomas (@BigBeeps142)
-* David Clark (@davidptclark)
+* Jorge del Río ([@Jorge-Figueira](https://github.com/Jorge-Figueira))
+* Benjamin Lomas ([@BigBeeps142](https://github.com/BigBeeps142))
+* David Clark ([@davidptclark](https://github.com/davidptclark))
 * Alberto Sáez
 * Tom Wallwin ([@TWallwin](https://github.com/TWallwin))
 
