@@ -1,4 +1,4 @@
-# NC Portfolio App (TBC)
+# NC Portfolio App
 
 NC Portolio App agregates graduates's work in one centralised space, granting them the opportunity to gain visibility and showcase their skills to potential employers uploading video demos of projects they've built. 
 
