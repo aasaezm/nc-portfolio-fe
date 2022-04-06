@@ -15,7 +15,7 @@ The NC Portfolio backend code can be found on: https://github.com/aasaezm/nc-por
 ### Setup
 1. In your terminal, navigate to the folder where you want to save the project and run the following command:
  `https://github.com/aasaezm/nc-portfolio-fe.git`
-2. Open your code editor, and in the terminal, run the following commando to install the dependencies for the project:
+2. Open your code editor, and in the terminal, run the following command to install the dependencies for the project:
 `npm install`
 
 
