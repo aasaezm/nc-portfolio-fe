@@ -2,6 +2,8 @@
 
 NC Portolio App agregates graduates's work in one centralised space, granting them the opportunity to gain visibility and showcase their skills to potential employers uploading video demos of projects they've built. 
 
+A demo video of the app can be seen in the following link: https://northcoders.com/projects/april-2022/northcoders-portfolio
+
 The NC Portfolio backend code can be found on: https://github.com/aasaezm/nc-portfolio-be
 
 ## Running the app locally
@@ -17,9 +19,6 @@ The NC Portfolio backend code can be found on: https://github.com/aasaezm/nc-por
  `https://github.com/aasaezm/nc-portfolio-fe.git`
 2. Open your code editor, and in the terminal, run the following command to install the dependencies for the project:
 `npm install`
-
-
-
 
 
 ## Tech stack used for this project
